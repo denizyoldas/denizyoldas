@@ -1,10 +1,9 @@
 ### Hi there, I'm Deniz Aksu [denizaksu][website] 👋
 
-## I'm a Student, Developer, and Teacher!!
+## I'm a Student and Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
 <br />
 
