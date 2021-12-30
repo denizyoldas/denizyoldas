@@ -1,4 +1,4 @@
-### Hi there, I'm Deniz Aksu [denizaksu][website] 👋
+### Hi there, I'm [Deniz Aksu][website] 👋
 
 ## I'm a Student and Developer!!
 
