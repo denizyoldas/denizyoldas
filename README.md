@@ -12,3 +12,5 @@
 <a href="https://medium.com/@yoldasaksu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yoldasaksu" height="0" width="30" /></a>
 </p>
 
+
+<a title="Install chatgpt3-prompt Raycast Extension" href="https://www.raycast.com/denizyoldas/chatgpt3-prompt"><img src="https://www.raycast.com/denizyoldas/chatgpt3-prompt/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
